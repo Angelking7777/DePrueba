@@ -1,11 +1,7 @@
 package netmindproyect;
 
 import java.util.Scanner;
-<<<<<<< HEAD
-// Estamos en el branch "master"
-=======
 // Estamos en el brach2
->>>>>>> Branch2
 /** * @author Acorp  */
 public class main {
     public static void main(String[] args) {
